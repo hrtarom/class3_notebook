@@ -1,0 +1,1 @@
+A docker container is an environment that the inits of softer and its dependencies can be gathered togher. Also this package will be light-weighted and can be run faster. An other postive feature is the safty that docker brings into the game.
